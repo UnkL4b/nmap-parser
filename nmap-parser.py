@@ -5,6 +5,8 @@
 # -Script listing
 # -Exploits listing
 
+# Execute exploit on open port with parameters
+
 import os
 import codecs
 import nmap
